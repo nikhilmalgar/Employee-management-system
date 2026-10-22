@@ -1,0 +1,7 @@
+Employee ID:1234
+Employee Name     : nikhil
+Father's Name     :nillbb
+Employee Contact  :hi
+Email Information :non
+Employee position :nik
+Employee Salary   :hnuik
